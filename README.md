@@ -1,1 +1,1 @@
-무언가 하려고 했던 사람의 흔적이 남아있는 곳 입니다.
+private exhibition
