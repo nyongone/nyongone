@@ -1,1 +1,1 @@
-![image](https://github.com/nyongone/nyongone/blob/main/CEC78C20-D384-4079-A484-7DA4DE05D9F4.jpeg?raw=true)
+![안녕안녕나는뇽이야](https://github-readme-stats.vercel.app/api?username=nyongone&show_icons=true&theme=gruvbox)
