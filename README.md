@@ -1,3 +1,5 @@
-![안녕안녕나는뇽이야](https://github.com/nyongone/nyongone/blob/main/9EE0C125-0BB7-40F1-A631-F963975CA0B8_1_102_o.jpeg?raw=true)
+𝘧𝘶𝘵𝘶𝘳𝘦-𝘰𝘳𝘪𝘦𝘯𝘵𝘦𝘥 𝘷𝘪𝘴𝘪𝘰𝘯
 
-future-oriented vision
+𝘮𝘺 𝘱𝘳𝘰𝘫𝘦𝘤𝘵𝘴  
+𝘮𝘣𝘵𝘪 𝘭𝘦𝘯𝘴 [(repository)](https://github.com/team-wavers/mbti-lens)  
+𝘺𝘰𝘶𝘵𝘩-𝘸𝘦𝘭𝘧𝘢𝘳𝘦 [(repository)](https://github.com/team-wavers/ywc-fe) [(website)](https://ywc.wavers.kr)
