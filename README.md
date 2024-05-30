@@ -1,9 +1,11 @@
-𝘧𝘶𝘵𝘶𝘳𝘦-𝘰𝘳𝘪𝘦𝘯𝘵𝘦𝘥 𝘷𝘪𝘴𝘪𝘰𝘯
+<h3 align="center">nyong.world</h3>
 
-𝘧𝘳𝘰𝘯𝘵-𝘦𝘯𝘥 𝘥𝘦𝘷𝘦𝘭𝘰𝘱𝘮𝘦𝘯𝘵 𝘭𝘦𝘢𝘥𝘦𝘳 𝘢𝘵 𝘵𝘦𝘢𝘮-𝘸𝘢𝘷𝘦𝘳𝘴  
+<p align="center">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
+</p>
 
-𝘱𝘢𝘳𝘵 𝘰𝘧 𝘧𝘳𝘰𝘯𝘵-𝘦𝘯𝘥 𝘥𝘦𝘷𝘦𝘭𝘰𝘱𝘮𝘦𝘯𝘵 𝘢𝘵 𝘔𝘉𝘛𝘐-𝘓𝘌𝘕𝘚 [(repository)](https://github.com/team-wavers/mbti-lens)  
-𝘱𝘢𝘳𝘵 𝘰𝘧 𝘧𝘳𝘰𝘯𝘵-𝘦𝘯𝘥 𝘥𝘦𝘷𝘦𝘭𝘰𝘱𝘮𝘦𝘯𝘵 𝘢𝘵 𝘠𝘰𝘶𝘵𝘩-𝘸𝘦𝘭𝘧𝘢𝘳𝘦 [(repository)](https://github.com/team-wavers/ywc-fe) [(website)](https://ywc.wavers.kr)
-
-𝘤𝘰𝘯𝘵𝘢𝘤𝘵: 𝘢𝘶𝘢𝘶3@𝘬𝘢𝘬𝘢𝘰.𝘤𝘰𝘮  
-𝘪𝘯𝘴𝘵𝘢𝘨𝘳𝘢𝘮: @𝘯𝘺𝘰𝘯𝘨.𝘸𝘰𝘯
+<p align="center"><a href="https://pf.nyong.world">Portfolio</a> <a href="https://velog.io/@dyslo">Blog</a> <a href="mailto:auau3@kakao.com">Contact</a></p>
