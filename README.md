@@ -8,4 +8,4 @@
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
 </p>
 
-<p align="center"><a href="https://pf.nyong.world">Portfolio</a> <a href="https://velog.io/@dyslo">Blog</a> <a href="mailto:auau3@kakao.com">Contact</a></p>
+<p align="center"><a href="https://pf.nyong.world">Portfolio</a> <a href="https://nyong.world">Blog</a> <a href="mailto:auau3@kakao.com">Contact</a></p>
